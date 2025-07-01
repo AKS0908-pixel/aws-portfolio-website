@@ -3,7 +3,7 @@ My personal portfolio website hosted on AWS S3.
 # Aakarsh Sinha – AWS Portfolio Website ☁️🌐
 
 This is my personal portfolio website hosted on Amazon S3 using static website hosting.  
-Live Demo 👉 [View Website](http://aakarsh-portfolio-site.s3-website-ap-south-1.amazonaws.com)
+Live Demo 👉 [View Website]([https://aakarsh-portfolio-site.s3.ap-south-1.amazonaws.com/index.html])
 
 **Tech Used**:
 - AWS S3 (Static Website Hosting)
